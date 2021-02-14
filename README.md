@@ -52,6 +52,6 @@ The Files
 - new_york_city.csv
 - washington.csv
 
-## Bouns
+## Bonus
 
 For every statistics that could be visualized I made a visulaizaion for it using Matplotlib to make it easier to understand.
